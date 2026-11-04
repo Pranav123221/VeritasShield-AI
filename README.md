@@ -85,8 +85,6 @@ Feature availability and maturity may vary by modality. See [Implementation Stat
 
 <img width="587" height="782" alt="img05" src="https://github.com/user-attachments/assets/172ee898-be66-44f4-8cc5-091f25daab52" />
 
-
-
 ## 4. Architecture
 
 VeritasShield AI follows a modular architecture with a React frontend, a FastAPI backend, external AI model integrations, and Supabase-backed services.
