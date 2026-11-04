@@ -71,6 +71,21 @@ Feature availability and maturity may vary by modality. See [Implementation Stat
 <img width="1891" height="925" alt="img01" src="https://github.com/user-attachments/assets/348e086b-feaa-40e0-977b-c27b09d06cce" />
 
 
+### Live Intelligence Monitor
+
+<img width="1542" height="696" alt="img02" src="https://github.com/user-attachments/assets/7ed5c390-f5af-47f8-965c-4ec12fc24cbf" />
+
+
+<img width="261" height="885" alt="img03" src="https://github.com/user-attachments/assets/6b4a9431-30d2-4c3f-b452-9394ae18ed55" />
+
+
+### Investigation Results
+
+<img width="1303" height="931" alt="img04" src="https://github.com/user-attachments/assets/b66ed937-0fc9-4b45-afcc-db26e830dcca" />
+
+<img width="587" height="782" alt="img05" src="https://github.com/user-attachments/assets/172ee898-be66-44f4-8cc5-091f25daab52" />
+
+
 
 ## 4. Architecture
 
