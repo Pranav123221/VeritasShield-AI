@@ -20,6 +20,10 @@
 </p>
 
 ---
+## 🚀 Live Deployment
+
+- **Frontend:** https://veritas-shield-ai.vercel.app/
+- **Backend API:** https://veritasshield-ai.onrender.com
 
 ## 1. Overview
 
