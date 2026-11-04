@@ -589,3 +589,24 @@ Multimodal Intelligence for Context-Aware Content Verification
 Repository: https://github.com/Pranav123221/VeritasShield-AI
 
 Built with a focus on multimodal AI, evidence-oriented investigation, and responsible AI engineering.
+
+---
+
+## Technical References
+
+### AI and Multimodal Models
+- [Meta Model API Documentation](https://dev.meta.ai/docs/overview)
+- [Meta Models Documentation](https://dev.meta.ai/docs/models)
+- [Meta API Reference](https://dev.meta.ai/docs/api-reference)
+- [Segment Anything Model (SAM)](https://ai.meta.com/sam3/)
+
+### Backend and Data
+- [FastAPI](https://fastapi.tiangolo.com/)
+- [Supabase Documentation](https://supabase.com/docs)
+- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+- [Pytest Documentation](https://docs.pytest.org/)
+
+### Frontend
+- [React Documentation](https://react.dev/)
+- [TypeScript Handbook](https://www.typescriptlang.org/docs/)
+- [Vite Documentation](https://vite.dev/guide/)
