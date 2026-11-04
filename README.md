@@ -65,6 +65,13 @@ VeritasShield AI aims to provide a unified investigation workflow that combines 
 
 Feature availability and maturity may vary by modality. See [Implementation Status](#implementation-status).
 
+## Screenshots & Demo
+### Main Dashboard
+
+<img width="1891" height="925" alt="img01" src="https://github.com/user-attachments/assets/348e086b-feaa-40e0-977b-c27b09d06cce" />
+
+
+
 ## 4. Architecture
 
 VeritasShield AI follows a modular architecture with a React frontend, a FastAPI backend, external AI model integrations, and Supabase-backed services.
