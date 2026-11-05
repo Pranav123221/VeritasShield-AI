@@ -171,13 +171,15 @@ type InvestigationDetail = {
 
 type ReportType = "text" | "image" | "url" | "audio";
 
-const API_URL = "http://127.0.0.1:8000/api/verify";
-const HEALTH_URL = "http://127.0.0.1:8000/health";
-const IMAGE_API_URL = "http://127.0.0.1:8000/api/investigate-image";
-const URL_API_URL = "http://127.0.0.1:8000/api/investigate-url";
-const AUDIO_API_URL = "http://127.0.0.1:8000/api/investigate-audio";
-const EVENTS_API_URL = "http://127.0.0.1:8000/api/events";
-const HISTORY_API_URL = "http://127.0.0.1:8000/api/investigations";
+const API_BASE_URL = "https://veritasshield-ai.onrender.com";
+
+const API_URL = `${API_BASE_URL}/api/verify`;
+const HEALTH_URL = `${API_BASE_URL}/health`;
+const IMAGE_API_URL = `${API_BASE_URL}/api/investigate-image`;
+const URL_API_URL = `${API_BASE_URL}/api/investigate-url`;
+const AUDIO_API_URL = `${API_BASE_URL}/api/investigate-audio`;
+const EVENTS_API_URL = `${API_BASE_URL}/api/events`;
+const HISTORY_API_URL = `${API_BASE_URL}/api/investigations`;
 
 const MAX_IMAGE_SIZE = 10 * 1024 * 1024;
 const MAX_AUDIO_SIZE = 30 * 1024 * 1024;
