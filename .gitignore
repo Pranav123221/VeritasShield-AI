@@ -1,0 +1,119 @@
+
+# ==============================
+# ENVIRONMENT & SECRETS
+# ==============================
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+credentials/
+
+# ==============================
+# PYTHON
+# ==============================
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+build/
+dist/
+*.egg-info/
+
+# ==============================
+# FRONTEND / NODE
+# ==============================
+node_modules/
+dist/
+.vite/
+.next/
+.nuxt/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# ==============================
+# IDE / EDITORS
+# ==============================
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ==============================
+# LOGS & TEMPORARY FILES
+# ==============================
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+*.bak
+
+# ==============================
+# DATABASE / LOCAL DATA
+# ==============================
+*.db
+*.sqlite
+*.sqlite3
+*.dump
+*.sql.gz
+
+# ==============================
+# ML / AI GENERATED ARTIFACTS
+# ==============================
+*.pkl
+*.pickle
+*.joblib
+*.onnx
+*.pt
+*.pth
+*.h5
+*.hdf5
+*.safetensors
+checkpoints/
+model_cache/
+wandb/
+mlruns/
+
+# ==============================
+# GENERATED REPORTS & OUTPUTS
+# ==============================
+reports/generated/
+output/
+outputs/
+artifacts/
+
+# ==============================
+# TEST CACHE
+# ==============================
+.cache/
+.pyre/
+```
+
+**Important:** `sam_output.txt` aur `sam_segmentation_overlay.png` automatically ignore nahi honge. Agar ye genuine demo evidence hain, toh review ke baad include kar sakte hain.
+
+
+
+# Generated SAM output
+sam_output.txt
+
+.vscode/
