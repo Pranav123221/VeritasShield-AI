@@ -65,6 +65,26 @@ VeritasShield AI aims to provide a unified investigation workflow that combines 
 
 Feature availability and maturity may vary by modality. See [Implementation Status](#implementation-status).
 
+## Screenshots & Demo
+### Main Dashboard
+
+<img width="1891" height="925" alt="img01" src="https://github.com/user-attachments/assets/348e086b-feaa-40e0-977b-c27b09d06cce" />
+
+
+### Live Intelligence Monitor
+
+<img width="1542" height="696" alt="img02" src="https://github.com/user-attachments/assets/7ed5c390-f5af-47f8-965c-4ec12fc24cbf" />
+
+
+<img width="261" height="885" alt="img03" src="https://github.com/user-attachments/assets/6b4a9431-30d2-4c3f-b452-9394ae18ed55" />
+
+
+### Investigation Results
+
+<img width="1303" height="931" alt="img04" src="https://github.com/user-attachments/assets/b66ed937-0fc9-4b45-afcc-db26e830dcca" />
+
+<img width="587" height="782" alt="img05" src="https://github.com/user-attachments/assets/172ee898-be66-44f4-8cc5-091f25daab52" />
+
 ## 4. Architecture
 
 VeritasShield AI follows a modular architecture with a React frontend, a FastAPI backend, external AI model integrations, and Supabase-backed services.
@@ -589,3 +609,24 @@ Multimodal Intelligence for Context-Aware Content Verification
 Repository: https://github.com/Pranav123221/VeritasShield-AI
 
 Built with a focus on multimodal AI, evidence-oriented investigation, and responsible AI engineering.
+
+---
+
+## Technical References
+
+### AI and Multimodal Models
+- [Meta Model API Documentation](https://dev.meta.ai/docs/overview)
+- [Meta Models Documentation](https://dev.meta.ai/docs/models)
+- [Meta API Reference](https://dev.meta.ai/docs/api-reference)
+- [Segment Anything Model (SAM)](https://ai.meta.com/sam3/)
+
+### Backend and Data
+- [FastAPI](https://fastapi.tiangolo.com/)
+- [Supabase Documentation](https://supabase.com/docs)
+- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+- [Pytest Documentation](https://docs.pytest.org/)
+
+### Frontend
+- [React Documentation](https://react.dev/)
+- [TypeScript Handbook](https://www.typescriptlang.org/docs/)
+- [Vite Documentation](https://vite.dev/guide/)
