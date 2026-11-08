@@ -1,4 +1,4 @@
-<img width="1367" height="850" alt="image" src="https://github.com/user-attachments/assets/d8b03cb4-6053-4f48-9dbf-b9b2c91529aa" /># VeritasShield AI
+# VeritasShield AI
 ### Multimodal Intelligence for Context-Aware Content Verification
 
 <p align="center">
