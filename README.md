@@ -70,7 +70,6 @@ VeritasShield AI aims to provide a unified investigation workflow that combines 
 Feature availability and maturity may vary by modality. See [Implementation Status](#implementation-status).
 
 ## Screenshots & Demo
-<img width="1367" height="850" alt="image" src="https://github.com/user-attachments/assets/dff7cb24-3436-41d9-8cfe-a781b3642b3d" />
 
 ### Main Dashboard
 
@@ -90,6 +89,10 @@ Feature availability and maturity may vary by modality. See [Implementation Stat
 <img width="1303" height="931" alt="img04" src="https://github.com/user-attachments/assets/b66ed937-0fc9-4b45-afcc-db26e830dcca" />
 
 <img width="587" height="782" alt="img05" src="https://github.com/user-attachments/assets/172ee898-be66-44f4-8cc5-091f25daab52" />
+
+
+<img width="1367" height="850" alt="image" src="https://github.com/user-attachments/assets/8e6c4b05-a200-4dd6-9c1c-1d1946567d06" />
+
 
 ## 4. Architecture
 
