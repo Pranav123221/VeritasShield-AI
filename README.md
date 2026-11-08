@@ -1,4 +1,4 @@
-# VeritasShield AI
+<img width="1367" height="850" alt="image" src="https://github.com/user-attachments/assets/d8b03cb4-6053-4f48-9dbf-b9b2c91529aa" /># VeritasShield AI
 ### Multimodal Intelligence for Context-Aware Content Verification
 
 <p align="center">
@@ -70,6 +70,8 @@ VeritasShield AI aims to provide a unified investigation workflow that combines 
 Feature availability and maturity may vary by modality. See [Implementation Status](#implementation-status).
 
 ## Screenshots & Demo
+<img width="1367" height="850" alt="image" src="https://github.com/user-attachments/assets/dff7cb24-3436-41d9-8cfe-a781b3642b3d" />
+
 ### Main Dashboard
 
 <img width="1891" height="925" alt="img01" src="https://github.com/user-attachments/assets/348e086b-feaa-40e0-977b-c27b09d06cce" />
